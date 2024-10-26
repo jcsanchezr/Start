@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "José Cruz Sánchez Ramírez"
+title                    : "Sitio Personal de José Cruz Sánchez Ramírez"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "José Cruz Sánchez Ramírez"
-description              : "An amazing website."
+description              : "Explorando la ciencia y la tecnología a través de la computación cuántica, IA y más."
 url                      : "https://jcsanchezr.github.io/Start"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,6 +94,11 @@ social:
     url: https://github.com/jcsanchezr
   - name: LinkedIn
     url: https://linkedin.com/in/[tu-perfil]
+
+# Configuración de idiomas
+languages:
+  es: "Español"
+  en: "English"    
 
 twitter:
   username               :
@@ -334,9 +339,43 @@ header_pages:
   - _pages/en/about.md
   - _pages/en/portfolio.md
   - _pages/en/publications.md
-  - _pages/en/cv.md
+  - _pages/en/cv-en.md
   - _pages/es/sobre.md
   - _pages/es/portafolio.md
   - _pages/es/publicaciones.md
-  - _pages/es/cv.md
+  - _pages/es/cv-es.md
 
+
+# Menú de navegación
+nav_links:
+  - title: "Sobre mí"
+    url: "/sobre"
+    lang: es
+
+  - title: "About Me"
+    url: "/about"
+    lang: en
+
+  - title: "Portafolio"
+    url: "/portafolio"
+    lang: es
+
+  - title: "Portfolio"
+    url: "/portfolio"
+    lang: en
+
+  - title: "CV"
+    url: "/cv"
+    lang: es
+
+  - title: "CV (English)"
+    url: "/cv_en"
+    lang: en
+
+  - title: "Publicaciones"
+    url: "/publicaciones"
+    lang: es
+
+  - title: "Publications"
+    url: "/publications"
+    lang: en
