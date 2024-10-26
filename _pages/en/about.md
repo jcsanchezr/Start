@@ -5,50 +5,46 @@ permalink: /about/ # Ajusta el permalink según la versión de idioma
 lang: en # o "es" para las versiones en español
 ---
 
-# Mat. José Cruz Sánchez Ramírez
-**Email:** jose.sanchez.ramirez@ciencias.unam.mx  
-**Phone:** +49 172827 9105
+# Welcome to My World of Innovation and Science
+
+I’m **José Cruz Sánchez Ramírez**, a scientist, technologist, and innovator dedicated to making science accessible to everyone. My journey combines a solid foundation in mathematics with a dynamic career spanning quantum computing, artificial intelligence, robotics, and heterogeneous computing. I believe in the power of science and technology to create meaningful change, and I’m constantly driven by the pursuit of knowledge and innovation.
+
+In 2016, I founded **ACIATII** (Association of Scientific Artists and Technologists for Innovation and Research), a civil association where we bridge the worlds of science, technology, and art to push the boundaries of knowledge. Through ACIATII, I lead initiatives that harness AI, IoT, and robotics to develop impactful solutions across various fields.
 
 ---
 
-## **Education**
+## **Areas of Expertise**
 
-**MBA**  
-Business School in Barcelona, Spain  
-2022 - 2024  
-
-**Master's in Innovation and Entrepreneurship**  
-Business School in Barcelona, Spain  
-2020 - 2022  
-
-**Bachelor’s in Mathematics**  
-UNAM, Mexico  
-2005 - 2021  
+- **Quantum Computing**: Advanced skills in algorithms and applications, including Qiskit and TensorFlow Quantum, to explore cutting-edge quantum phenomena.
+- **Artificial Intelligence & Robotics**: Leveraging AI and IoT for practical applications in autonomous and industrial robotics.
+- **High-Performance Computing**: Expertise in heterogeneous computing and GPU programming, creating scalable solutions for complex computational challenges.
 
 ---
 
-## **Skills**
+## **Key Projects**
 
-- **Quantum Computing:** Qiskit, Cirq, Quantum Approximate Optimization Algorithm (QAOA)
-- **Programming Languages:** Python, C++, MATLAB, Rust
-- **Data Analysis:** MATLAB, R, Python (NumPy, SciPy, Pandas)
-- **Simulation Tools:** QuTiP, TensorFlow Quantum
-- **Laboratory Skills:** Photonic systems, quantum entanglement experiments, high-vacuum systems
+- **NetCode “CODIGO DE RED”**: A big data and AI-driven smart grid interface, addressing Mexico’s Energy Reform requirements for high-voltage load centers.
+- **Intangible Birds**: An innovative art-science project featured in ACI 2019, creating a virtual environment to simulate bird behavior, blending technology with artistic expression.
+- **EMITT**: Patent-pending ultra-high frequency electric motor, representing a breakthrough in energy-efficient engineering.
 
 ---
 
-## **Professional Affiliations**
+## **Recent Research and Collaborations**
 
-- Member, Mexican Mathematical Society (AMM)
-- Member, Mexican Physical Society (SMF)
-- Member, Association for Computing Machinery (ACM)
+- **Crosstalk Phenomenon in Piezoelectric Materials**: Research on ultrasound transducers, expanding knowledge in applied physics with implications for medical and industrial applications.
+- **Expert System LEDA**: Development of a system optimizing energy use within university facilities, showcasing AI’s potential in sustainable practices.
 
 ---
 
-## **References**
+## **A Continuous Learner**
 
-**Dr. Israel Sánchez Domínguez**  
-Institute of Research in Applied Mathematics and Systems, IIMAS-UNAM  
+Committed to lifelong learning, I frequently engage in courses and certifications that expand my horizons in scientific computing, scalable deep learning, and quantum information processing.
 
-**Dr. Israel Sánchez Domínguez**  
-Faculty of Engineering, FI-UNAM
+- **Recent Certifications**:
+  - High-Performance Computing in C++ (Jülich Supercomputing Centre, 2023)
+  - Scalable Deep Learning (Jülich Supercomputing Centre, 2023)
+  - Quantum Information Processing (Jülich Supercomputing Centre, 2023)
+
+---
+
+Feel free to reach out if you’re interested in collaboration or want to discuss innovative solutions in science and technology. Let’s connect and explore what we can achieve together.
