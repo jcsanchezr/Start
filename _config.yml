@@ -17,12 +17,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "José Cruz Sánchez Ramírez"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "José Cruz Sánchez Ramírez"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://jcsanchezr.github.io/Start"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -45,7 +45,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : "minimal-mistakes-jekyll"
     issue_term           : # "pathname" (default)
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
@@ -89,6 +89,12 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
+social:
+  - name: GitHub
+    url: https://github.com/jcsanchezr
+  - name: LinkedIn
+    url: https://linkedin.com/in/[tu-perfil]
+
 twitter:
   username               :
 facebook:
@@ -323,3 +329,14 @@ defaults:
       comments: # true
       share: true
       related: true
+
+header_pages:
+  - _pages/en/about.md
+  - _pages/en/portfolio.md
+  - _pages/en/publications.md
+  - _pages/en/cv.md
+  - _pages/es/sobre.md
+  - _pages/es/portafolio.md
+  - _pages/es/publicaciones.md
+  - _pages/es/cv.md
+
