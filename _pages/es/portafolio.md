@@ -45,3 +45,17 @@ A continuación, se presenta una selección de proyectos destacados en las área
 - **Descripción**: Desarrollo de simulaciones para experimentos de alta precisión en sistemas de computación cuántica.
 - **Tecnologías**: TensorFlow Quantum, QuTiP
 - **Resultados**: Aumento de la precisión en los experimentos simulados, con aplicaciones en el desarrollo de tecnologías cuánticas.
+
+---
+
+## **Patentes**
+
+### **EMITT** - Motor Electromagnético de Ultra Alta Frecuencia
+- **Descripción**: Diseño de un motor electromagnético de alta frecuencia para aplicaciones industriales. 
+- **Estado**: Pendiente de patente
+- **Aplicaciones**: Energía eficiente en entornos de alta frecuencia, mejorando la durabilidad y rendimiento de equipos de alta tecnología.
+
+### **NetCode “CÓDIGO DE RED”** - Interfaz de Red Inteligente
+- **Descripción**: Patente de un sistema de procesamiento de datos y algoritmos de IA para la Reforma Energética de México, con una interfaz inteligente para centros de carga de media y alta tensión.
+- **Estado**: Patente en proceso
+- **Aplicaciones**: Optimización de redes de distribución eléctrica y cumplimiento de normativas energéticas en México.

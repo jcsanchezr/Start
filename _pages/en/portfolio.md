@@ -45,3 +45,17 @@ Below is a selection of highlighted projects in the fields of quantum computing,
 - **Description**: Developed simulations for high-precision experiments in quantum computing systems.
 - **Technologies**: TensorFlow Quantum, QuTiP
 - **Outcomes**: Enhanced simulation accuracy for experimental setups, with applications in advancing quantum technology development.
+
+---
+
+## **Patents**
+
+### **EMITT** - Ultra High-Frequency Electromagnetic Motor
+- **Description**: Designed an ultra high-frequency electromagnetic motor for industrial applications.
+- **Status**: Patent pending
+- **Applications**: Energy-efficient solution for high-frequency environments, improving equipment durability and performance.
+
+### **NetCode “SMART GRID CODE”** - Intelligent Grid Interface
+- **Description**: Patent for a data processing and AI algorithm system for Mexico's Energy Reform, with a smart grid interface for medium and high-voltage load centers.
+- **Status**: Patent in progress
+- **Applications**: Optimization of electrical distribution networks and compliance with energy regulations in Mexico.
