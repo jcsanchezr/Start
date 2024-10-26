@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "CV"
-permalink: /cv/
+permalink: /cv-es/
 lang: es
 ---
 
