@@ -365,11 +365,11 @@ nav_links:
     lang: en
 
   - title: "CV"
-    url: "/cv"
+    url: "/cv-es"
     lang: es
 
   - title: "CV (English)"
-    url: "/cv_en"
+    url: "/cv-en"
     lang: en
 
   - title: "Publicaciones"
