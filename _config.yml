@@ -171,21 +171,22 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "@jc_sanchez_r"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url:
+
+    - label: "LinkedIn"
+      url: "https://linkedin.com/in/yourusername"
+      icon: "fab fa-linkedin"
+
+    - label: "Twitter"
+      url: "https://twitter.com/yourusername"
+      icon: "fab fa-twitter"
+
+    - label: "ResearchGate"
+      url: "https://www.researchgate.net/profile/yourusername"
+      icon: "fas fa-book"
+
+    - label: "ORCID"
+      url: "https://orcid.org/your-ORCID-id"
+      icon: "fab fa-orcid"
 
 
 # Reading Files
