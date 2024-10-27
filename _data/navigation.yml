@@ -23,3 +23,15 @@ main:
 
   - title: "Publications"
     url: "/publications/"
+
+  - title: "GitHub"
+    url: "https://github.com/yourusername"
+    icon: "fab fa-github"
+
+  - title: "LinkedIn"
+    url: "https://linkedin.com/in/yourusername"
+    icon: "fab fa-linkedin"
+
+  - title: "Twitter"
+    url: "https://twitter.com/yourusername"
+    icon: "fab fa-twitter"
