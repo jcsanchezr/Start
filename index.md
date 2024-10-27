@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Sobre mí"
-permalink: /sobre/ # Ajusta el permalink según la versión de idioma
+permalink: / # Ajusta el permalink según la versión de idioma
 lang: es
 ---
 
