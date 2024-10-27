@@ -145,11 +145,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "José Cruz Sánchez Ramírez"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
-  email            :
+  email            : "jsanchez@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -175,7 +175,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "@jc_sanchez_r"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
