@@ -5,7 +5,7 @@ permalink: /cv-en/
 lang: en
 ---
 
-# Curriculum Vitae
+## Curriculum Vitae
 
 You can download my CV in PDF format using the link below:
 
