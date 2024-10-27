@@ -94,6 +94,27 @@ social:
     url: https://github.com/jcsanchezr
   - name: LinkedIn
     url: https://linkedin.com/in/[tu-perfil]
+# Redes Sociales
+social_links:
+  - title: "GitHub"
+    url: "https://github.com/yourusername"
+    icon: "fab fa-github"
+
+  - title: "LinkedIn"
+    url: "https://linkedin.com/in/yourusername"
+    icon: "fab fa-linkedin"
+
+  - title: "Twitter"
+    url: "https://twitter.com/yourusername"
+    icon: "fab fa-twitter"
+
+  - title: "ResearchGate"
+    url: "https://www.researchgate.net/profile/yourusername"
+    icon: "fas fa-book"
+
+  - title: "ORCID"
+    url: "https://orcid.org/your-ORCID-id"
+    icon: "fab fa-orcid"    
 
 # Configuración de idiomas
 languages:
