@@ -336,7 +336,7 @@ defaults:
       related: true
 
 header_pages:
-  - about.md
+  - index.md
   - _pages/en/about.md
   - _pages/en/portfolio.md
   - _pages/en/publications.md
