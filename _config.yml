@@ -89,24 +89,19 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
-# Redes Sociales (una sola vez)
 social_links:
   - title: "GitHub"
     url: "https://github.com/jcsanchezr"
     icon: "fab fa-github"
-
   - title: "LinkedIn"
     url: "https://linkedin.com/in/yourusername"
     icon: "fab fa-linkedin"
-
   - title: "Twitter"
-    url: "https://twitter.com/yourusername"
+    url: "https://twitter.com/@jc_sanchez_r"
     icon: "fab fa-twitter"
-
   - title: "ResearchGate"
     url: "https://www.researchgate.net/profile/yourusername"
     icon: "fas fa-book"
-
   - title: "ORCID"
     url: "https://orcid.org/your-ORCID-id"
     icon: "fab fa-orcid"
@@ -117,7 +112,7 @@ languages:
   en: "English"    
 
 twitter:
-  username               : @jc_sanchez_r
+  username               : "@jc_sanchez_r"
 facebook:
   username               :
   app_id                 :
@@ -154,7 +149,7 @@ author:
       url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/@jc_sanchez_r"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/"
@@ -170,7 +165,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "@jc_sanchez_r"
+      url: "https://twitter.com/@jc_sanchez_r"
 
     - label: "LinkedIn"
       url: "https://linkedin.com/in/yourusername"
@@ -362,7 +357,6 @@ header_pages:
   - _pages/es/portafolio.md
   - _pages/es/publicaciones.md
   - _pages/es/cv-es.md
-
 
 # Menú de navegación
 nav_links:
