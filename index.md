@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: "Sobre mí"
 permalink: / # Ajusta el permalink según la versión de idioma
 lang: es
