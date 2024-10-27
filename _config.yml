@@ -350,7 +350,7 @@ header_pages:
 # Menú de navegación
 nav_links:
   - title: "Sobre mí"
-    url: "/sobre"
+    url: "/"
     lang: es
 
   - title: "About Me"
