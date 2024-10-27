@@ -9,7 +9,7 @@ lang: es
 
 Puedes descargar mi Currículum Vitae en formato PDF en el siguiente enlace:
 
-- [Descargar CV en Español](../assets/cv/cv_es.pdf)
+- [Descargar CV en Español](../assets/cv/cv-es.pdf)
 
 ---
 

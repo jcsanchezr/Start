@@ -9,7 +9,7 @@ lang: en
 
 You can download my CV in PDF format using the link below:
 
-- [Download CV in English](../assets/cv/cv_en.pdf)
+- [Download CV in English](../assets/cv/cv-en.pdf)
 
 ---
 
