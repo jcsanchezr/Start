@@ -13,10 +13,10 @@ main:
     url: "/portfolio/"
 
   - title: "CV"
-    url: "/cv/"
+    url: "/cv-es/"
 
   - title: "CV (English)"
-    url: "/cv_en/"
+    url: "/cv-en/"
 
   - title: "Publicaciones"
     url: "/publicaciones/"
