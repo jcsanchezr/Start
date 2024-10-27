@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -89,15 +89,10 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
-social:
-  - name: GitHub
-    url: https://github.com/jcsanchezr
-  - name: LinkedIn
-    url: https://linkedin.com/in/[tu-perfil]
-# Redes Sociales
+# Redes Sociales (una sola vez)
 social_links:
   - title: "GitHub"
-    url: "https://github.com/yourusername"
+    url: "https://github.com/jcsanchezr"
     icon: "fab fa-github"
 
   - title: "LinkedIn"
@@ -114,7 +109,7 @@ social_links:
 
   - title: "ORCID"
     url: "https://orcid.org/your-ORCID-id"
-    icon: "fab fa-orcid"    
+    icon: "fab fa-orcid"
 
 # Configuración de idiomas
 languages:
