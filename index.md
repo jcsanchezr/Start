@@ -3,6 +3,7 @@ layout: single
 title: "Sobre mí"
 permalink: / # Ajusta el permalink según la versión de idioma
 lang: es
+author_profile: true
 ---
 
 # Bienvenido a Mi Mundo de Innovación y Ciencia
