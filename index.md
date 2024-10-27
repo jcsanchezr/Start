@@ -1,50 +1,50 @@
 ---
 layout: single
-title: "About Me" # o el título en español según la sección
-permalink: / # Ajusta el permalink según la versión de idioma
-lang: en # o "es" para las versiones en español
+title: "Sobre mí"
+permalink: /sobre/ # Ajusta el permalink según la versión de idioma
+lang: es
 ---
 
-# Welcome to My World of Innovation and Science
+# Bienvenido a Mi Mundo de Innovación y Ciencia
 
-I’m **José Cruz Sánchez Ramírez**, a scientist, technologist, and innovator dedicated to making science accessible to everyone. My journey combines a solid foundation in mathematics with a dynamic career spanning quantum computing, artificial intelligence, robotics, and heterogeneous computing. I believe in the power of science and technology to create meaningful change, and I’m constantly driven by the pursuit of knowledge and innovation.
+Soy **José Cruz Sánchez Ramírez**, científico, tecnólogo e innovador, comprometido en hacer la ciencia accesible para todos. Mi trayectoria combina una sólida base en matemáticas con una carrera dinámica en computación cuántica, inteligencia artificial, robótica y computación heterogénea. Creo en el poder de la ciencia y la tecnología para crear un cambio significativo, y mi impulso constante es el avance del conocimiento y la innovación.
 
-In 2016, I founded **ACIATII** (Association of Scientific Artists and Technologists for Innovation and Research), a civil association where we bridge the worlds of science, technology, and art to push the boundaries of knowledge. Through ACIATII, I lead initiatives that harness AI, IoT, and robotics to develop impactful solutions across various fields.
-
----
-
-## **Areas of Expertise**
-
-- **Quantum Computing**: Advanced skills in algorithms and applications, including Qiskit and TensorFlow Quantum, to explore cutting-edge quantum phenomena.
-- **Artificial Intelligence & Robotics**: Leveraging AI and IoT for practical applications in autonomous and industrial robotics.
-- **High-Performance Computing**: Expertise in heterogeneous computing and GPU programming, creating scalable solutions for complex computational challenges.
+En 2016, fundé **ACIATII** (Asociación de Científicos, Artistas y Tecnólogos para la Innovación y la Investigación), una asociación civil que une los mundos de la ciencia, la tecnología y el arte para ampliar los límites del conocimiento. A través de ACIATII, lidero iniciativas que aprovechan la IA, IoT y robótica para desarrollar soluciones con impacto en diversos campos.
 
 ---
 
-## **Key Projects**
+## **Áreas de Especialización**
 
-- **NetCode “CODIGO DE RED”**: A big data and AI-driven smart grid interface, addressing Mexico’s Energy Reform requirements for high-voltage load centers.
-- **Intangible Birds**: An innovative art-science project featured in ACI 2019, creating a virtual environment to simulate bird behavior, blending technology with artistic expression.
-- **EMITT**: Patent-pending ultra-high frequency electric motor, representing a breakthrough in energy-efficient engineering.
-
----
-
-## **Recent Research and Collaborations**
-
-- **Crosstalk Phenomenon in Piezoelectric Materials**: Research on ultrasound transducers, expanding knowledge in applied physics with implications for medical and industrial applications.
-- **Expert System LEDA**: Development of a system optimizing energy use within university facilities, showcasing AI’s potential in sustainable practices.
+- **Computación Cuántica**: Habilidades avanzadas en algoritmos y aplicaciones, explorando fenómenos cuánticos de vanguardia con herramientas como Qiskit y TensorFlow Quantum.
+- **Inteligencia Artificial y Robótica**: Aplicación de IA e IoT en robótica autónoma e industrial para resolver problemas prácticos.
+- **Computación de Alto Rendimiento**: Experiencia en computación heterogénea y programación GPU, creando soluciones escalables para retos computacionales complejos.
 
 ---
 
-## **A Continuous Learner**
+## **Proyectos Clave**
 
-Committed to lifelong learning, I frequently engage in courses and certifications that expand my horizons in scientific computing, scalable deep learning, and quantum information processing.
-
-- **Recent Certifications**:
-  - High-Performance Computing in C++ (Jülich Supercomputing Centre, 2023)
-  - Scalable Deep Learning (Jülich Supercomputing Centre, 2023)
-  - Quantum Information Processing (Jülich Supercomputing Centre, 2023)
+- **NetCode “CÓDIGO DE RED”**: Interfaz de red inteligente impulsada por big data e IA, cumpliendo con los requisitos de la Reforma Energética de México para centros de carga de alta tensión.
+- **Aves Intangibles**: Un proyecto innovador en arte y ciencia presentado en ACI 2019, que simula el comportamiento de aves en un entorno virtual, fusionando tecnología con expresión artística.
+- **EMITT**: Motor electromagnético de ultra alta frecuencia en proceso de patente, que representa un avance en ingeniería de eficiencia energética.
 
 ---
 
-Feel free to reach out if you’re interested in collaboration or want to discuss innovative solutions in science and technology. Let’s connect and explore what we can achieve together.
+## **Investigación Reciente y Colaboraciones**
+
+- **Fenómeno de Interferencia en Materiales Piezoeléctricos**: Investigación sobre transductores de ultrasonido, expandiendo el conocimiento en física aplicada con implicaciones para aplicaciones médicas e industriales.
+- **Sistema Experto LEDA**: Desarrollo de un sistema que optimiza el uso de energía en instalaciones universitarias, mostrando el potencial de la IA en prácticas sostenibles.
+
+---
+
+## **Un Aprendiz Continuo**
+
+Comprometido con el aprendizaje continuo, participo frecuentemente en cursos y certificaciones que amplían mis conocimientos en computación científica, aprendizaje profundo escalable y procesamiento de información cuántica.
+
+- **Certificaciones Recientes**:
+  - Computación Científica de Alto Rendimiento en C++ (Centro de Supercomputación de Jülich, 2023)
+  - Aprendizaje Profundo Escalable (Centro de Supercomputación de Jülich, 2023)
+  - Procesamiento de Información Cuántica (Centro de Supercomputación de Jülich, 2023)
+
+---
+
+No dudes en contactarme si estás interesado en colaborar o quieres discutir soluciones innovadoras en ciencia y tecnología. Conectemos y exploremos lo que podemos lograr juntos.
