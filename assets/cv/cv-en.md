@@ -91,10 +91,10 @@ Without certificate:
 
 ## Technical Skills
 
-- **Programming Languages:** Python, C++, Cuda C, R, Unreal Engine
-- **Cloud Environments:** Azure, Google Cloud, AWS, EBRAINS
-- **Project Management Skills:** Lean programming, Scrum
-- **Areas of Expertise:** Statistics, Machine Learning, GPU Programming, Autonomous and Industrial Robotics
+- **Programming Languages:** C++, Cuda C, Python, R, Rust
+- **Cloud Environments:** AWS, Azure, EBRAINS, Google Cloud
+- **Project Management Skills:** Git, Lean programming, Scrum
+- **Areas of Expertise:** Autonomous and Industrial Robotics, GPU Programming, Machine Learning, Statistics
 
 ---
 

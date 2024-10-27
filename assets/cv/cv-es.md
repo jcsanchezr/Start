@@ -91,7 +91,7 @@ Sin certificado:
 
 ## Competencias Técnicas
 
-- **Lenguajes de Programación:** Python, C++, Cuda C, R, Unreal Engine
+- **Lenguajes de Programación:** Python, C++, Cuda C, R, Rust
 - **Entornos en la Nube:** Azure, Google Cloud, AWS, EBRAINS
 - **Habilidades de Gestión de Proyectos:** Lean programming, Scrum
 - **Áreas de Especialización:** Estadísticas, Machine Learning, Programación GPU, Robótica autónoma e industrial
