@@ -89,30 +89,30 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
-social_links:
-  - title: "GitHub"
-    url: "https://github.com/jcsanchezr"
-    icon: "fab fa-github"
-  - title: "LinkedIn"
-    url: "https://linkedin.com/in/yourusername"
-    icon: "fab fa-linkedin"
-  - title: "Twitter"
-    url: "https://twitter.com/@jc_sanchez_r"
-    icon: "fab fa-twitter"
-  - title: "ResearchGate"
-    url: "https://www.researchgate.net/profile/yourusername"
-    icon: "fas fa-book"
-  - title: "ORCID"
-    url: "https://orcid.org/your-ORCID-id"
-    icon: "fab fa-orcid"
+#social_links:
+ # - title: "GitHub"
+  #  url: "https://github.com/jcsanchezr"
+   # icon: "fab fa-github"
+  #- title: "LinkedIn"
+   # url: "https://linkedin.com/in/yourusername"
+    #icon: "fab fa-linkedin"
+  #- title: "Twitter"
+   # url: "https://twitter.com/@jc_sanchez_r"
+    #icon: "fab fa-twitter"
+  #- title: "ResearchGate"
+   # url: "https://www.researchgate.net/profile/yourusername"
+    #icon: "fas fa-book"
+  #- title: "ORCID"
+   # url: "https://orcid.org/your-ORCID-id"
+    #icon: "fab fa-orcid"
 
 # Configuración de idiomas
 languages:
   es: "Español"
   en: "English"    
 
-twitter:
-  username               : "@jc_sanchez_r"
+#twitter:
+ # username               : "@jc_sanchez_r"
 facebook:
   username               :
   app_id                 :
@@ -134,31 +134,31 @@ analytics:
 
 
 # Site Author
-author:
-  name             : "José Cruz Sánchez Ramírez"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            : "jsanchez@gmail.com"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/@jc_sanchez_r"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+#author:
+ # name             : "José Cruz Sánchez Ramírez"
+ # avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+ # bio              : "I am an **amazing** person."
+ # location         : "Somewhere"
+ # email            : "jsanchez@gmail.com"
+ # links:
+ #   - label: "Email"
+ #     icon: "fas fa-fw fa-envelope-square"
+ #     url: "mailto:your.name@email.com"
+ #   - label: "Website"
+ #     icon: "fas fa-fw fa-link"
+ #     url: "https://your-website.com"
+ #   - label: "Twitter"
+ #     icon: "fab fa-fw fa-twitter-square"
+ #     url: "https://twitter.com/@jc_sanchez_r"
+ #   - label: "Facebook"
+ #     icon: "fab fa-fw fa-facebook-square"
+ #     url: "https://facebook.com/"
+ #   - label: "GitHub"
+ #     icon: "fab fa-fw fa-github"
+ #     url: "https://github.com/"
+ #   - label: "Instagram"
+ #     icon: "fab fa-fw fa-instagram"
+ #     url: "https://instagram.com/"
 
 # Site Footer
 footer:
@@ -167,21 +167,21 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/@jc_sanchez_r"
 
-    - label: "LinkedIn"
-      url: "https://linkedin.com/in/yourusername"
-      icon: "fab fa-linkedin"
+   # - label: "LinkedIn"
+   #   url: "https://linkedin.com/in/yourusername"
+   #   icon: "fab fa-linkedin"
 
-    - label: "Twitter"
-      url: "https://twitter.com/yourusername"
-      icon: "fab fa-twitter"
+   # - label: "Twitter"
+   #   url: "https://twitter.com/yourusername"
+   #   icon: "fab fa-twitter"
 
-    - label: "ResearchGate"
-      url: "https://www.researchgate.net/profile/yourusername"
-      icon: "fas fa-book"
+    #- label: "ResearchGate"
+    #  url: "https://www.researchgate.net/profile/yourusername"
+    #  icon: "fas fa-book"
 
-    - label: "ORCID"
-      url: "https://orcid.org/your-ORCID-id"
-      icon: "fab fa-orcid"
+    #- label: "ORCID"
+    #  url: "https://orcid.org/your-ORCID-id"
+     # icon: "fab fa-orcid"
 
 
 # Reading Files
