@@ -369,11 +369,11 @@ nav_links:
     lang: en
 
   - title: "Portafolio"
-    url: "/portafoliox"
+    url: "/portafolio"
     lang: es
 
   - title: "Portfolio"
-    url: "/portfoliox"
+    url: "/portfolio"
     lang: en
 
   - title: "CV"
@@ -385,9 +385,9 @@ nav_links:
     lang: en
 
   - title: "Publicaciones"
-    url: "/publicacionesx"
+    url: "/publicaciones"
     lang: es
 
   - title: "Publications"
-    url: "/publicationsx"
+    url: "/publications"
     lang: en
