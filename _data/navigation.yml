@@ -7,10 +7,10 @@ main:
     url: "/about/"
 
   - title: "Portafolio"
-    url: "/portafoliox/"
+    url: "/portafolio/"
 
   - title: "Portfolio"
-    url: "/portfoliox/"
+    url: "/portfolio/"
 
   - title: "CV"
     url: "/cv-es/"
@@ -19,19 +19,19 @@ main:
     url: "/cv-en/"
 
   - title: "Publicaciones"
-    url: "/publicacionesx/"
+    url: "/publicaciones/"
 
   - title: "Publications"
-    url: "/publicationsx/"
+    url: "/publications/"
 
-  - title: "GitHub"
-    url: "https://github.com/yourusername"
-    icon: "fab fa-github"
+ # - title: "GitHub"
+ #   url: "https://github.com/yourusername"
+ #   icon: "fab fa-github"
 
-  - title: "LinkedIn"
-    url: "https://linkedin.com/in/yourusername"
-    icon: "fab fa-linkedin"
+  #- title: "LinkedIn"
+  #  url: "https://linkedin.com/in/yourusername"
+  #  icon: "fab fa-linkedin"
 
-  - title: "Twitter"
-    url: "https://twitter.com/yourusername"
-    icon: "fab fa-twitter"
+  #- title: "Twitter"
+  #  url: "https://twitter.com/yourusername"
+  #  icon: "fab fa-twitter"
